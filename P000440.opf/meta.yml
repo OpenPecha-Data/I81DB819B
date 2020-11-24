@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4942
   title: འདས་པའི་ལོ་ཟླ།
-  volume: ''
+  volume:
+    2864a0c920c64e94b144f4b0fb1c5495:
+      image_group_id: I3CN8655
+      title: Volume 1 of 'das pa'i lo zla/
+      volume_number: 1
+      total_pages: 328
   author: ''
+ebook_metadata:
+  title: འདས་པའི་ལོ་ཟླ།
+  author: ''
+  sku: P000440
+  cover: cover.jpg
+  layers:
+  - pagination
